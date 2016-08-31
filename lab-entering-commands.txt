@@ -17,9 +17,6 @@ Follow the instructions line-by-line.
 
 
 
-
-
-
 ==========
 
 1. Open Terminal.  Type:
@@ -58,9 +55,6 @@ What happens?  Describe it below.
 
 ----------
 nothing happens
-
-
-
 
 
 
@@ -130,9 +124,6 @@ Copy and paste the first *two lines* of output below.
 ----------
 .			Ableton			MATLAB			REAPER Media
 ..			Adobe			Max 7			Smaart v8
-
-
-
 
 
 
@@ -218,19 +209,12 @@ ls: doesnotexist: No such file or directory
 
 
 
-
-
-
 ==========
 
 9.  What key do I press to go to the previous command?
 
 ----------
 <UP>
-
-
-
-
 
 
 
@@ -244,18 +228,12 @@ ls: doesnotexist: No such file or directory
 
 
 
-
-
-
 ==========
 
 11.  What key do I use to attempt to autocomplete a command or a file name?
 
 ----------
 <TAB>
-
-
-
 
 
 
@@ -324,9 +302,6 @@ Copy and paste the output below.
 
 
 
-
-
-
 ==========
 
 16.  In the following line....
@@ -343,3 +318,4 @@ What is the command, flag, argument, and prompt?
 Command is ls
 flag is -a 
 argument is Desktop
+$ is prompt
