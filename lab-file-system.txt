@@ -64,10 +64,6 @@ Copy and paste the output of pwd below.
 /Users/student/mtec1002
 
 
-
-
-
-
 ==========
 
 5. Type:
@@ -84,11 +80,6 @@ Copy and paste the output below.
 
 ----------
 animals
-
-
-
-
-
 
 
 
@@ -111,10 +102,6 @@ animals	food
 
 
 
-
-
-
-
 ==========
 
 7. Type:
@@ -131,10 +118,6 @@ Copy and paste the output below.
 
 ----------
 animals	foo	food
-
-
-
-
 
 
 ==========
@@ -156,10 +139,6 @@ Copy and paste the output below.
 /Users/student/mtec1002
 
 
-
-
-
-
 ==========
 
 9. Type:
@@ -176,11 +155,6 @@ Copy and paste the output below.
 
 ----------
 /Users
-
-
-
-
-
 
 
 ==========
@@ -202,10 +176,6 @@ Copy and paste the output below.
 
 
 
-
-
- 
-
 ==========
 
 11. Type:
@@ -222,11 +192,6 @@ Copy and paste the output below.
 
 ----------
 /
-
-
-
-
-
 
 
 ==========
@@ -251,11 +216,6 @@ drwxr-xr-x+  67 root  wheel  2278 Aug 22 15:35 Library
 
 
 
-
-
-
-
-
 ==========
 
 13. Type:
@@ -272,11 +232,6 @@ Copy and paste the output into the space below.
 
 ----------
 /Users/student
-
-
-
-
-
 
 
 ==========
@@ -320,10 +275,6 @@ Copy and paste the output into the space below.
 /Volumes
 
 
-
-
-
-
 ==========
 
 15. Type:
@@ -343,10 +294,6 @@ Copy and paste the output into the space below.
 
 
 
-
-
-
-
 ==========
 
 16. Type:
@@ -363,12 +310,6 @@ Copy and paste the output into the space below.
 ent-v314-015.local
 
 
-
-
-
-
-
-
 ==========
 
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
@@ -377,10 +318,6 @@ ent-v314-015.local
 pwd
 ent-v314-015:mtec1002 student$ pwd
 /Users/student/mtec1002
-
-
-
-
 
 
 ==========
@@ -396,11 +333,6 @@ cd ~/mtec1002
 Otherwise skip this question/step!
 
 ----------
-
-
-
-
-
 
 
 ==========
@@ -425,12 +357,6 @@ Use only one command to make all of these new directories.  Write what command y
 ent-v314-015:mtec1002 student$ mkdir -p pineapple/orange/strawberry/lemon
 
 
-
-
-
-
-
-
 ==========
 
 19. Make another directory called aardvark.  
@@ -443,11 +369,6 @@ Write the command you used to create the directory below:
 ent-v314-015:~ student$ mkdir -p aardvark
 
 
-
-
-
-
-
 ==========
 
 20. List the files and directories in the current directory using the long format.  
@@ -457,10 +378,6 @@ ent-v314-015:~ student$ mkdir -p aardvark
 What is the modified date of the aardvark directory?
 
 ----------
-
-
-
-
 
 
 
@@ -482,12 +399,6 @@ What command did you use?
 
 ----------
 
-
-
-
-
-
-
 ==========
 
 22. Change your directory so that you're in the inner most directory (baz)
@@ -497,11 +408,6 @@ What command did you use?
 What command did you use?
 
 ----------
-
-
-
-
-
 
 
 ==========
@@ -515,19 +421,11 @@ What command did you use?
 ----------
 
 
-
-
-
 ==========
 
 24. What command is used to delete empty directories?
 
 ----------
-
-
-
-
-
 
 
 ==========
@@ -536,22 +434,11 @@ What command did you use?
 
 ----------
 
-
-
-
-
-
-
 ==========
 
 26. What flag do I pass to ls to print out all files?
 
 ----------
-
-
-
-
-
 
 
 ==========
@@ -561,11 +448,6 @@ What command did you use?
 ----------
 
 
-
-
-
-
-
 ==========
 
 28. What's a pathname?
@@ -573,21 +455,11 @@ What command did you use?
 ----------
 
 
-
-
-
-
-
 ==========
 
 29. What's a directory?
 
 ----------
-
-
-
-
-
 
 
 ==========
