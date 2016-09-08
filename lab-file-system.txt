@@ -398,7 +398,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 
 ----------
-
+mkdir
 ==========
 
 22. Change your directory so that you're in the inner most directory (baz)
@@ -408,7 +408,7 @@ What command did you use?
 What command did you use?
 
 ----------
-
+cd
 
 ==========
 
@@ -419,51 +419,52 @@ What command did you use?
 What command did you use?
 
 ----------
-
+Up Command
 
 ==========
 
 24. What command is used to delete empty directories?
 
 ----------
-
+rmdir
 
 ==========
 
 25. What command is used to print out your current working directory?
 
 ----------
-
+pwd
 ==========
 
 26. What flag do I pass to ls to print out all files?
 
 ----------
-
+ls -a
 
 ==========
 
 27. What's the shortcut for home directory?
 
 ----------
-
+cd
 
 ==========
 
 28. What's a pathname?
 
 ----------
-
+the name of the directory
 
 ==========
 
 29. What's a directory?
 
 ----------
-
+a folder or file
 
 ==========
 
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 
 ----------
+C:\Users\Student\Downloads
